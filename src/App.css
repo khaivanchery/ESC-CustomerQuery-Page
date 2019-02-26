@@ -23,6 +23,46 @@
   color: #61dafb;
 }
 
+.myheader {
+  color: pink;
+  align-items: center;
+}
+
+
+#category{
+  margin-right: 30px;
+}
+
+#sel{
+  font-size: 18px;
+}
+
+.options{
+  margin-bottom: 30px;
+}
+
+#txt{
+  align-self: center;
+  margin-bottom: 30px;
+
+}
+
+#but{
+  font-size: 15px;
+}
+
+#form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}
+
+
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
